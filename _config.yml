@@ -3,9 +3,9 @@
 # Site
 # language: zh-CN
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+shortcut_icon: https://gitee.com/wraptor/resume/raw/master/assets/avatar.png
+favicon: https://gitee.com/wraptor/resume/raw/master/assets/avatar.png
+avatar: https://gitee.com/wraptor/resume/raw/master/assets/avatar.png
 
 # 主题
 theme: hexo-theme-resume

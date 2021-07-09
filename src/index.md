@@ -26,7 +26,7 @@ contact:
 download:
   title: 下载PDF
   icon: fas fa-download fa-fw
-  url: https://raw.githubusercontent.com/wraptor/resume/master/resume.pdf
+  url: https://gitee.com/wraptor/resume/raw/master/assets/resume.pdf
 ---
 
 <!-- {% raw %}
