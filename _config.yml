@@ -14,8 +14,8 @@ theme_config:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: https://resume.js.org
-url: http://localhost:4000
-root: /
+# url: http://localhost:4000
+root: /resume/
 permalink: posts/:title/
 tag_dir: tags
 archive_dir: archives
@@ -166,8 +166,6 @@ lazyload:
 deploy:
   - type: git
     repo: https://github.com/wraptor/resume.git
-    branch: master
-    message: update pages
 
 feed:
   type: atom
